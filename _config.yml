@@ -1,1 +1,27 @@
+title: Five Guys
+description: La competición definitiva
+author: "Ors"
+
 theme: minima
+
+base_url: /gh-pages-minima-starter
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md 
