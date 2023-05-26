@@ -4,7 +4,7 @@ author: "Ors"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
+base_url: /fiveguys
 
 minima:
   date_format: "%Y-%m-%d"
