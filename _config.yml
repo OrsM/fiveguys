@@ -1,9 +1,12 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes
 
-title: Five Guys 
-description: El torneo definitivo
-author: Ors
-locale: es_ES 
+title: "Five Guys"
+description: "El torneo definitivo"
+locale: "es_ES"
+
+
+author: 
+  name: "Ors"
 
 github:
   is_project_page: false
