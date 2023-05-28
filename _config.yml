@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: Five Guys 
-description: El torneo definitivo
+
+name: true
+title: false
