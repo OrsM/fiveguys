@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 title: Five Guys 
 description: El torneo definitivo
 author: Ors
+locale: es_ES 
 
 github:
   is_project_page: false
-
