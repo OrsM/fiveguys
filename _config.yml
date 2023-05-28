@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 
 title: Five Guys 
 description: El torneo definitivo
+author: Ors
 
 github:
   is_project_page: false
