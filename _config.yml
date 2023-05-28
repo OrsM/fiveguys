@@ -3,10 +3,7 @@ theme: minima
 title: "Five Guys"
 description: "El torneo definitivo"
 locale: "es_ES"
-
-
-author: 
-  name: "Ors"
+name: "Ors"
 
 github:
   is_project_page: false
