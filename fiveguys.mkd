@@ -1,7 +1,7 @@
 --- 
- title: "El torneo definitivo" 
- --- 
- ### IIª edición  
+title: "El torneo definitivo" 
+--- 
+### IIª edición  
   
  Jun-2022 a jul-2023 
   
