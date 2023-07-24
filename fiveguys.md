@@ -1,5 +1,6 @@
 --- 
-title: "Five Guys" 
+title: "Five Guys"
+description:"ranking de nuestra competición"
 --- 
 
 ### IIª edición  
