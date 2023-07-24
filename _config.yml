@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
-title: "Notas de Miguel"
+title: "Notas"
+description: "Apuntes de Miguel"
 locale: "es_ES"
 name: "Ors"
 
