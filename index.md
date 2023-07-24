@@ -1,9 +1,3 @@
---- 
-title: "Five Guys"
-description: "ranking de nuestra competición"
---- 
-# Clasificación del torneo Five Guys
-
 ### IIª edición  
   
 Jun-2022 a jul-2023 
