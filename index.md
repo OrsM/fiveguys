@@ -2,7 +2,7 @@
   
 Sep-2023 a... 
   
-Empate entre **Márquez** y**Albert** 🪙  
+Empate entre **Márquez** y **Albert** 🪙  
   
 |FG|🍲|🎮|🍻|✌️|💸|💡|👑| 
 |---|---|---|---|---|---|---|---|
